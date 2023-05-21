@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Water\source\repos\Project37\Project37\Source.cpp(134,10): warning C4101: 'srcNode': 未參考的區域變數
+  Project37.vcxproj -> C:\Users\Water\source\repos\Project37\Debug\Project37.exe
